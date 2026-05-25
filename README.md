@@ -58,10 +58,4 @@ streamlit run app.py
 2. Generate API key
 3. Paste API key into dashboard sidebar
 
-## 📸 Preview
-
-(Add screenshots here after running)
-
----
-
 Made with ❤️ using Streamlit
